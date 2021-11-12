@@ -4,10 +4,7 @@ The following code autocompletes a product search, displaying the relevant
 result. It also provides search filter to make the results more filtered.
 
 ## Deployment
-### `yarn run start:dev`
-After deploying, you should see the app running on:
-
-[http://localhost:3000](http://localhost:3000)
+### `yarn start`
 
 ## Available Scripts
 
